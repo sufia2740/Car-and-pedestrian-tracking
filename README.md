@@ -1,6 +1,9 @@
 # Car-and-pedestrian-tracking
 This project is a Python-based application for detecting and tracking cars and pedestrians in videos using the OpenCV library. The program leverages pre-trained classifiers to identify objects of interest and visually highlights them with bounding boxes.
 
+![image](https://github.com/user-attachments/assets/dffce13f-4614-415c-b060-fe3227e01e64)
+
+
 ## Features
 * Real-time detection and tracking of:
  * Cars
